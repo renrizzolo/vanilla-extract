@@ -1,9 +1,10 @@
 node_modules
 dist
+!packages/**/dist
 tsconfig.tsbuildinfo
 packages/**/README.md
-!packages/sprinkles/README.md
-!packages/integration/README.md
+# !packages/sprinkles/README.md
+# !packages/integration/README.md
 test-results
 .parcel-cache
 
